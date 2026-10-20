@@ -34,7 +34,7 @@ Inicie o servidor do Streamlit:
 ```bash
 streamlit run app.py
 ```
-*(Caso o comando direto não seja encontrado no Windows, utilize: `python -m streamlit run app.py`)*
+*(Caso o comando direto não seja encontrado no Windows, utilize: `py -m streamlit run app.py`)*
 
 A aplicação será aberta automaticamente em seu navegador padrão no endereço:
 👉 **`http://localhost:8501`**
